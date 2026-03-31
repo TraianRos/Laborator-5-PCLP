@@ -1,3 +1,5 @@
+Output consola:
+
 Constructor punct(7.8,-20.4)
 Constructor punct(-4.82,8.897)
 Constr. implicit pentru punct(0,0)
